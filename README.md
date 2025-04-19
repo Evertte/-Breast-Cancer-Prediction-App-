@@ -1,4 +1,5 @@
-# 🩺 Breast Cancer Prediction App
+# 🩺 Breast Cancer Prediction App (<img width="1439" alt="Screenshot 2025-04-19 at 11 34 53 AM" src="https://github.com/user-attachments/assets/88530523-b324-4285-b606-ae50d9e4a87b" />
+)
 
 A Streamlit-powered web application that predicts whether a breast tumor is malignant or benign using machine learning. The model is trained on the **Breast Cancer dataset available via Seaborn**, which includes features extracted from digitized images of fine needle aspirates (FNA) of breast masses.
 
@@ -68,7 +69,6 @@ Each tumor sample includes:
 
 ## 📸 Screenshot
 
-> *(Optional: Add a screenshot of your app UI here)*
 > <img width="1439" alt="Screenshot 2025-04-19 at 11 34 53 AM" src="https://github.com/user-attachments/assets/0b150338-3953-44aa-beb7-41c86ff838b9" />
 
 > <img width="1439" alt="Screenshot 2025-04-19 at 11 35 13 AM" src="https://github.com/user-attachments/assets/c5fbcbfd-e738-4894-add1-aff979131a5e" />
@@ -76,7 +76,7 @@ Each tumor sample includes:
 
 ## 📬 Contact
 
-Built by [Your Name]  
+Built by Evertte  
 [GitHub](https://github.com/Evertte) • [LinkedIn](https://linkedin.com/in/Evertte)
 
 ---
